@@ -4,3 +4,5 @@
 - The dataset includes columns like 'RowNumber', 'CustomerId', 'Surname', 'CreditScore', 'Geography', 'Gender', 'Age', 'Tenure', 'Balance', 'NumOfProducts', 'HasCrCard', 'IsActiveMember', 'EstimatedSalary', and 'Exited' (indicating if a customer left), with a total of 10,000 rows.
 
 - We developed a classification model using an artificial neural network (ANN) to analyze customer churn, customizing the model to enhance its predictive accuracy.
+
+##### This project utilizes a dataset sourced from Kaggle, and the model is developed solely for practice and learning purposes.
